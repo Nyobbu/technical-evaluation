@@ -60,7 +60,7 @@ function login(){
   <head>
  <!-- <script src="js/script.js"></script>-->
     <title>
-      Technical Examination
+      Log-in Page
     </title>
 </head>
 <body>

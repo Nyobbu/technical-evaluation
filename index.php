@@ -54,11 +54,6 @@ if(isset($_SESSION['login_status']))
             }
             displayTerritory($arr);
           }
-          else
-          {
-             // echo $arr;
-          }
-          
       }
       echo '</ul>';
   }
@@ -76,7 +71,7 @@ else
 <html>
   <head>
     <title>
-      Territories
+      Home Page
     </title>
 </head>
 
